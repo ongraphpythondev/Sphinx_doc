@@ -1,0 +1,23 @@
+
+
+Examples using ``numpy.linspace``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This is a general example demonstrating a Matplotlib plot output, embedded rST, the use of math...">
+
+.. only:: html
+
+ .. figure:: /auto_examples/images/thumb/sphx_glr_plot_0_sin_thumb.png
+     :alt: Introductory example - Plotting sin
+
+     :ref:`sphx_glr_auto_examples_plot_0_sin.py`
+
+.. raw:: html
+
+    </div>
+
+.. only:: not html
+
+ * :ref:`sphx_glr_auto_examples_plot_0_sin.py`

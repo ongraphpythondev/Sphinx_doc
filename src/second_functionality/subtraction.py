@@ -3,6 +3,8 @@ Subtraction Functionalities
 ----------------------------
 Subtraction is very crutial thing in calculator
 """
+# %%
+# This is the first text block and directly follows the header docstring above.
 
 class Addition:
     """
@@ -27,6 +29,11 @@ class Addition:
         return a-b
 
 
+# %%
+# This is a section header
+# ------------------------
+#
+
 class Division:
     """
     Division class is responsible for Division of two numbers
@@ -48,3 +55,4 @@ class Division:
         :return:int
         """
         return a-b
+

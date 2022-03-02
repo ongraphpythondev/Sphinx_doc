@@ -12,7 +12,9 @@ class Databse:
     def __init__(self , connection_string):
         """
         this connection string is used to connect with sql server
-        :param connection_string : str
+        Args:
+            connection_string: This is connection string
+
         """
         self.connection_string = connection_string
 
@@ -20,10 +22,13 @@ class Databse:
     def connect(self , username : str , password : str , port : int) -> str:
         """
         this method is used to connect database
-        :param username : str
-        :param password : str
-        :param port : int
 
-        :return:str
+        Args:
+            username(str): This is username
+            password(str): This is password
+            port(int): This is port
+        
+        Returns:
+            str: returning string
         """
         return f"this is run on port no.{port}"

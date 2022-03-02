@@ -5,3 +5,11 @@ database module
    :members:
    :undoc-members:
    :show-inheritance:
+
+
+.. automodule:: second_functionality.addition
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
